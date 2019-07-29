@@ -6,7 +6,7 @@ In this notebook, we predict student admissions to graduate school at UCLA based
 - GPA Scores (Grades)
 - Class rank (1-4)
 
-In this, I have implemented some of the steps in the training of the neural network, namely:
+*In this, I have implemented some of the steps in the training of the neural network, namely:
 
 - One-hot encoding the data
 - Scaling the data
